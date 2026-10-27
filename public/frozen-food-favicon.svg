@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#EFF8FF"/>
+  <!-- Snowflake -->
+  <g stroke="#1689D8" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 7v26M20.75 13.5l22.5 13M43.25 13.5l-22.5 13M32 31 20.75 50.5M32 31l11.25 19.5M9.5 31h45" opacity=".95"/>
+    <path d="M32 7l-4 4m4-4 4 4M20.75 13.5l.8 5.2m-.8-5.2 5.2.8M43.25 13.5l-.8 5.2m.8-5.2-5.2.8M9.5 31l4-4m-4 4 4 4m41-4-4-4m4 4-4 4M20.75 50.5l5.2-.8m-5.2.8.8-5.2m21.7 5.2-5.2-.8m5.2.8-.8-5.2"/>
+  </g>
+  <!-- Frozen food basket / package -->
+  <path d="M13 36.5c0-2 1.6-3.5 3.5-3.5h31c1.9 0 3.5 1.5 3.5 3.5V51c0 2.2-1.8 4-4 4H17c-2.2 0-4-1.8-4-4V36.5Z" fill="#FFFFFF" stroke="#145B91" stroke-width="2.2"/>
+  <path d="M17 33h30l-3-5H20l-3 5Z" fill="#1689D8"/>
+  <!-- Fish -->
+  <path d="M19 42c3.5-4.5 10.5-5.3 15.5-1.8L40 37v10l-5.5-3.2C29.5 47.3 22.5 46.5 19 42Z" fill="#1689D8"/>
+  <circle cx="30.5" cy="41" r="1.1" fill="#FFFFFF"/>
+  <!-- Steak mark -->
+  <path d="M39.5 46.5c1.5-2.2 5.3-2.9 7.2-1.1 1.7 1.7.4 4.6-2.1 5.3-2.3.7-5.8-1.2-5.1-4.2Z" fill="#F06464" stroke="#C63D4D" stroke-width="1.1"/>
+  <path d="M42 46.4c1.1-.7 2.5-.2 2.6.8.1.8-.9 1.4-1.7 1.2" stroke="#FFE5E5" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

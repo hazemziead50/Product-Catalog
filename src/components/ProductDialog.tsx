@@ -17,7 +17,7 @@ export const ProductDialog = ({ product, onClose }: ProductDialogProps) => {
   return (
     <Dialog open={product !== null} onOpenChange={(open) => !open && onClose()}>
       {product && (
-        <DialogContent className="max-w-md sm:max-w-lg text-right" dir="rtl">
+        <DialogContent showCloseButton={false} className="max-w-md sm:max-w-lg text-right" dir="rtl">
           <DialogHeader>
             <DialogTitle className="text-xl font-bold text-slate-900">
               {product.name}

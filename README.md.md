@@ -129,5 +129,5 @@ TypeScript is a **compile-time tool** whose types are completely erased during V
 
 - **Branch**: `feat/product-catlog`
 - **Repository URL**: `https://github.com/hazemziead50/Product-Catalog`
-- **Live Deployment (Vercel)**: `https://<YOUR_DEPLOYMENT_URL>.vercel.app`
-- **Pull Request (Open & Unmerged)**: `https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/pull/1`
+- **Live Deployment (Vercel)**: `https://product-catalog-hazem-ziead.vercel.app/`
+- **Pull Request (Open & Unmerged)**: `https://github.com/hazemziead50/Product-Catalog/pull/1`

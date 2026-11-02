@@ -22,7 +22,7 @@ Follow these steps to set up and run the application locally:
 
 ### Prerequisites
 
-Ensure you have [Node.js](https://nodejs.org/) (version 18 or higher recommended) and `npm` installed.
+Ensure you have [Node.js](https://nodejs.org/) (version 20 or higher recommended) and `npm` installed.
 
 ### 1. Clone the Repository & Checkout the Branch
 
